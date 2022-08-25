@@ -19,7 +19,7 @@ def reply_to_timo(Client, message):
         reply_markup=InlineKeyboardMarkup(
             [
             [
-                InlineKeyboardButton("Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون", url=f"https://t.me/EITHON1"),
+                InlineKeyboardButton("𝐑𝐄𝐏𝐓𝐇𝐎𝐍™ ريبثون ", url=f"https://t.me/Repthon"),
             ]
          ]
      )
@@ -41,7 +41,7 @@ async def nammes(client: Client, message: Message):
                         name, url=f"https://t.me/{message.from_user.username}")
                 ],
                 [
-                    InlineKeyboardButton("اصنع بوتك", url=f"https://t.me/EITHON1/819"),
+                    InlineKeyboardButton("اصنع بوتك", url=f"https://t.me/roger21v/107"),
                 ],    
             ]
         ),
